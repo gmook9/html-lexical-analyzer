@@ -2,6 +2,6 @@
 Lexical analyzer(Tokenizer) for HTML written in C++
 <br />
 Sample HTML Input:<br />
-![ImageForReadme](/imagesForReadme/exampleInput.png)
+![ImageForReadme](/imagesForReadme/exampleInput.PNG)
 Sample Tokenized Tags Output:<br />
-![ImageForReadme](/imagesForReadme/exampleOutput.png)
+![ImageForReadme](/imagesForReadme/exampleOutput.PNG)
