@@ -1,2 +1,4 @@
 # html-lexical-analyzer
-Lexical analyzer for HTML. (Tokenizer)
+Lexical analyzer(Tokenizer) for HTML written in C++
+
+
